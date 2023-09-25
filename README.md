@@ -1,2 +1,2 @@
 # IELTS_Score_Prediction_From_Writing
-This project's main goal is developing a NLP model to predict IELTS scores from candidate's writing passages
+IELTS is a standard English Level test which has 4 main parts (Listening, Reading,Writing and Speaking). The scores are scaled between 1 and 9. This project's main goal is developing a NLP model to predict IELTS scores from candidate's writing passages. First, a classification model would be used for predicting, then same problem will be tried to solve by using regression models.
